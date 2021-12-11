@@ -1,6 +1,6 @@
 # Obfuscript
 
-<a href="https://discord.gg/qxYgpvEye6" alt="Obfuscator"><img src="https://img.shields.io/badge/stability-45%25-green" /></a>
+<a href="https://discord.gg/qxYgpvEye6" alt="Obfuscator"><img src="https://img.shields.io/badge/stability-86%25-green" /></a>
 
 Obfuscript is a free windows obfuscator created for protecting the code of .NET Softwares. Obfuscript is **free** and **customizable** for all developers. You can create licenses, file locks and much, much more.
 
